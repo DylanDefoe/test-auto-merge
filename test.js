@@ -1,2 +1,3 @@
-consoel.log('test')
-consoel.log('test1')
+console.log('test')
+console.log('test1')
+console.log('test2')
